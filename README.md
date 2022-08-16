@@ -1,13 +1,12 @@
-# 
+# Formulario utilizando React Function Components, utilizando o Material-UI
 
-## Available Scripts
+## Download de Projeto
+faça o download/clone do diretório após baixado digite o comando no terminal: `npm install` ou `yarn install`
 
-In the project directory, you can run:
+### Inicializar projeto
 
-### `npm start`
+Após todos os pacotes instalados digite o comando: `npm start` abrirá na porta:3000
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Observações
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Projeto desenvolvido com React, Components, Material UI
